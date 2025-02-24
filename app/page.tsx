@@ -33,7 +33,7 @@ export default function PortfolioPage() {
           <p className="text-gray-500">PhD Student @ The University of Texas at El Paso</p>
           <p className="text-gray-500">Advisor: Dr. Christoph Lauter</p>
           <p>
-          CUrrently my research focus on Architectural Support for AI through alternative numbers representations and how these compare. </p>
+          Currently my research focus on Architectural Support for AI through alternative numbers representations and how these compare. </p>
           <div className="flex flex-col items-center space-y-3">
             {portfolioData.emails.map((emailObj) => (
               <Button
