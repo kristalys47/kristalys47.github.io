@@ -1,0 +1,208 @@
+{
+  "name": "Kristalys Ruiz Rohena",
+  "emails": [
+    { "label": "Institutional",
+      "address": "kruizrohena@miners.utep.edu"
+    },
+    { "label": "Personal",
+      "address": "kruizrohena@gmail.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. of Science in Computer Science (Currently Enrolled)",
+      "institution": "University of Texas, El Paso"
+    },
+    {
+      "degree": "Master of Science in Computer Engineering",
+      "institution": "University of Puerto Rico, Mayagüez Campus"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Engineering",
+      "institution": "University of Puerto Rico, Mayagüez Campus"
+    }
+  ],
+  "researchExperience": [
+    {
+      "title": "Numbers Representation for AI Models (Log & SPADES)",
+      "institution": "University of Texas, El Paso",
+      "description": "Investigating Logarithmic Number System for AI models quantification in forward passes."
+    },
+    {
+      "title": "Smart Social Connector",
+      "institution": "University of Texas, El Paso",
+      "description": "Validating and cleaning data collected on older adults for their use of technology."
+    },
+    {
+      "title": "Containerized Distributed Databases",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "description": "Developed a distributed database system with containerized operations to optimize query processing."
+    },
+    {
+      "title": "Twitter Health Surveillance",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "description": "Researching methods to classify tweets related to diseases using AI tools."
+    },
+    {
+      "title": "RumboEx: Web Development",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "description": "Worked on integrating PostgreSQL, Python Flask, and Angular 6."
+    },
+    {
+      "title": "Biomechatronics: Signal Recognition",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "description": "Researched brain signals related to the intent of movement using OpenBCI."
+    }
+  ],
+  "teachingAssistantExperience": [
+    {
+      "title": "Database Course",
+      "role": "Graduate Teaching Assistant",
+      "institution": "University of Texas, El Paso"
+    },
+    {
+      "title": "Database Course",
+      "role": "Undergraduate/Graduate Teaching Assistant",
+      "institution": "University of Puerto Rico, Mayaguez Campus"
+    },
+    {
+      "title": "Data Structure Course",
+      "role": "Undergraduate Teaching Assistant",
+      "institution": "University of Puerto Rico, Mayaguez Campus"
+    },
+    {
+      "title": "Algorithmic Thinking & Problem-Solving",
+      "role": "Undergraduate Teaching Assistant",
+      "institution": "University of Puerto Rico, Mayaguez Campus"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "title": "CREEDS - Research Experience for Teachers",
+      "role": "Student Mentor",
+      "institution": "University of Texas, El Paso",
+      "period": "May 2024 - July 2024",
+      "description": "Providing guidance and support to high school teachers on how to research computer science"
+    },
+    {
+      "title": "IPHIT - Space and Airborne Systems",
+      "role": "Intern Student in Software Engineering",
+      "institution": "L3Harris, Melbourne",
+      "period": "June 2021 - Aug 2021",
+      "description": "Developed a dashboard to visualize test results and troubleshoot issues."
+    },
+    {
+      "title": "Embedded Communication Systems",
+      "role": "Intern Student in Software Engineering",
+      "institution": "L3Harris, Melbourne",
+      "period": "June 2020 - Aug 2020",
+      "description": "Created safety-critical classes in C++ for embedded systems."
+    },
+    {
+      "title": "WAS-ASS DevOps Team",
+      "role": "Co-op Student in Software Engineer",
+      "institution": "IBM, Durham",
+      "period": "Feb 2019 - Dec 2019",
+      "description": "Worked on enhancing performance of WAS Services using Docker and Kubernetes."
+    }
+  ],
+  "skills": [
+    { "name": "Java"},
+    { "name": "Docker" },
+    { "name": "SQL"},
+    { "name": "Python"},
+    { "name": "React"},
+    { "name": "C++" },
+    { "name": "TensorFlow" },
+    { "name": "PyTorch" }
+  ],
+  "extracurricularActivities": [
+    {
+      "title": "CAHSI Allyship Program",
+      "role": "Coordinator",
+      "institution": "University of Texas, El Paso",
+      "period": "Aug 2022 - Present",
+      "description": "Overseeing program activities and mentor-protégé interactions."
+    },
+    {
+      "title": "UTEP AI Camp for Middle School Students",
+      "role": "Lead and Presenter",
+      "institution": "University of Texas, El Paso",
+      "period": "May 2024 - July 2024",
+      "description": "Developing materials and activities to teach middle school students about AI."
+    },
+    {
+      "title": "CAHSI Allyship Program",
+      "role": "Ally",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "period": "Jan 2022 - May 2022",
+      "description": "Guided and supported three undergraduate students in their academic journey."
+    },
+    {
+      "title": "UPRM Coding Club",
+      "role": "Presenter/Mentor",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "period": "Aug 2019 - May 2023",
+      "description": "Facilitated resources for students to develop technical interview skills."
+    },
+    {
+      "title": "CAHSI UPRM Student Chapter",
+      "role": "Student Member",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "period": "Feb 2018 - June 2023",
+      "description": "Participated in recruitment, retention, and advancement initiatives for Hispanics in computing."
+    },
+    {
+      "title": "Engineering Community Summit",
+      "role": "Participant",
+      "institution": "University of Puerto Rico, Mayaguez Campus",
+      "period": "Sep 24, 2016",
+      "description": "Attended training on TI microprocessors, teamwork, and resilient design."
+    }
+  ],
+  "fellowships": [
+    {
+      "title": "Center for the Advancement of Wearable Technology",
+      "role": "Researcher: Containerized Distributed Databases",
+      "institution": "University of Puerto Rico",
+      "period": "August 2021 - June 2023"
+    }
+  ],
+  "conferences": [
+    {
+      "title": "31st NMSU/UTEP Workshop on Maths, CS, and Computational Sciences",
+      "role": "Presenter: Containerized Distributed Databases",
+      "location": "Las Cruces, New Mexico",
+      "period": "April 6, 2024"
+    },
+    {
+      "title": "27th NSF EPSCoR National Conference",
+      "role": "Poster Presenter: Containerized Distributed Databases",
+      "location": "Portland, Maine",
+      "period": "November 13-16, 2022"
+    }
+  ],
+  "publishedWork": [
+    {
+    "title": "Enhancing Classroom Teaching with LLMs and RAG",
+    "event": "SIGITE 2024: Proceedings of the 25th Annual Conference on Information Technology Education",
+    "period": "December 8, 2024",
+    "url": "https://doi.org/10.1145/3686852.3687083"
+    },
+    {
+      "title": "Logarithmic Format for Quantization on Forward Passes with High Accuracy",
+      "event": "58th Asilomar Conference on Signals, Systems, and Computers",
+      "period": "October 2024"
+    },
+    {
+      "title": "In Practice, Estimates Based on Gaussian Uncertainty Are More Accurate Than Interval Estimates",
+      "event": "31st NMSU/UTEP Workshop on Maths, CS, and Computational Sciences",
+      "period": "April 6, 2024"
+    },
+    {
+      "title": "ArcaDB: A Container-based Disaggregated Query Engine for Heterogenous Computational Environments",
+      "event": "IEEE Cloud 2024",
+      "period": "Spring 2024"
+    }
+  ]
+}
